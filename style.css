@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body {
+    font-family: 'Roboto',sans-serif;
+    display: flex;
+    flex-direction: column;
+    margin: 0px;
+
+}
+
+header {
+    background-color: #1f2937 ;
+    color: white;
+    padding-bottom: 20px;
+}
+
+header a {
+    font-size: 18px;
+    color: #E5E7EB;
+    margin: 10px;
+}
+
+#menu {
+    margin-bottom: 10px;
+    padding: 10px 200px 0 200px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#logo {
+    font-size: 24px;
+    color: #F9FAF8;
+    font-weight: 900;
+}
+
+.hero{
+    display: flex;
+    padding: 10px 200px 10px 200px;
+    justify-content: space-between;
+}
+.image{
+    background: gray;
+    height: 200px;
+    width: 400px;
+    
+
+}
+
+.container {
+    width: 400px;
+    
+}
+
+#hero-title {
+    font-size: 48px;
+    font-weight: bolder;
+    color:#F9FAF8;
+}
+ .container p {
+    font-size: 18px;
+    color: #E5E7EB;
+ }
+
+.signup {
+    font-weight: bold;
+    color:#E5E7EB;
+    font-size: 18px;
+    border: 0;
+    background-color: #3882F6;
+    border-radius: 10px;
+}
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+a{
+    text-decoration: none;
+}
+
+
+ul {
+    margin: 0px;
+    padding: 0px;
+    list-style-type: none;
+}
+
+p {
+    margin: 0px;
+    padding: 0px;
+}
