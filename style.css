@@ -166,6 +166,9 @@ blockquote h3 {
 }
 
 .call button{
+    display: flex;
+    align-items: flex-end;
+    justify-content: end;
     font-weight: bold;
     color: white;
     height: max-content;
